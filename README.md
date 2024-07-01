@@ -8,10 +8,10 @@
 ##### My name is Kouravand, Ali and down below are my attributes as a Data Engineer ⬇️
 
 #####  🔭  Expertise: 
-* python 1
-* AWS cloud computing 2
-* SQL Database Management 3
-* PostgreSQL & MySQL 3.1 
+* python 
+* AWS cloud computing 
+* SQL Database Management 
+
 
 🌱 I am currently studying [AWS cloud practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/) with the help from [Udemy](https://www.udemy.com/) 
 
