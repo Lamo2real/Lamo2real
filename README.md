@@ -3,7 +3,7 @@
 
 
 ### Konnichiwa dear viewer! 
-#Grab a cup of coffee and please checkout my GitHub Profile
+# Grab a cup of coffee and please checkout my GitHub Profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
