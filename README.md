@@ -1,6 +1,6 @@
 
 
-<!--
+
 
 ### Konnichiwa dear viewer! 
 #Grab a cup of coffee and please checkout my GitHub Profile
@@ -13,4 +13,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
