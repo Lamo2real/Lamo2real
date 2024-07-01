@@ -1,9 +1,9 @@
-## Hi there 👋
+
 
 <!--
-**Lamo2real/Lamo2real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Konnichiwa dear viewer! 
+#Grab a cup of coffee and please checkout my GitHub Profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
