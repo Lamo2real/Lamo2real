@@ -3,9 +3,11 @@
 
 
 ### Konnichiwa dear viewer! 
-# Grab a cup of coffee and please checkout my GitHub Profile
+#### Grab a cup of coffee and please checkout my GitHub Profile
 
-- 🔭 I’m currently working on ...
+##### My name is Kouravand, Ali and down below are my attributes ⬇️
+
+- 🔭AWS cloud practitioner Certificate with the help from [Udemy] (https://www.udemy.com/) 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
