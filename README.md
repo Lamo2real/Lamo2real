@@ -13,7 +13,7 @@
 * SQL Database Management 
 
 
-🌱 I am currently studying [AWS cloud practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/) with the help from [Udemy](https://www.udemy.com/) 
+🌱 I am currently studying [AWS cloud practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 🤔 I’m looking for help with ...
 💬 Ask me about ...
