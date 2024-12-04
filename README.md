@@ -18,7 +18,7 @@
 * Database Management
 * Data Pipelines | ETL/ELT Pipelines
 
-#######🏅 I am a AWS Certified Cloud Practitioner 
-#######🌱 I am currently studying for the Solutions Architect Associate (SAA-CO3)
+🏅 I am a AWS Certified Cloud Practitioner 
+🌱 I am currently studying for the Solutions Architect Associate (SAA-CO3)
 
 
