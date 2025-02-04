@@ -19,6 +19,7 @@
 * Data Pipelines | ETL/ELT Pipelines
 
 🏅 I am a AWS Certified Cloud Practitioner - (CLF-C02)
+
 🏅 I am a AWS Certified Solutions Architect Associate - (SAA-C03)
 
 
