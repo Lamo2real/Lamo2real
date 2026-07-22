@@ -2,7 +2,7 @@
 
 
 
-### Konnichiwa dear viewer! 
+### Hi! 
 #### Grab yourself a cup of coffee and please checkout my GitHub Profile
 
 ##### My name is Kouravand, Lamo and down below are my attributes as a Cloud Engineer ⬇️
